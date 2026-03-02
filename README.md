@@ -1,0 +1,12 @@
+PORT=5000
+NODE_ENV=development
+FRONTEND_URL=http://localhost:3000
+JWT_SECRET=your_super_secret_jwt_key_here_change_this
+DATABASE_URL=postgresql://username:password@localhost:5432/tennis_db
+STRIPE_PUBLIC_KEY=pk_test_your_public_key
+STRIPE_SECRET_KEY=sk_test_your_secret_key
+FIREBASE_API_KEY=your_firebase_api_key
+FIREBASE_PROJECT_ID=your_firebase_project_id
+FIREBASE_MESSAGING_SENDER_ID=your_firebase_sender_id
+SENDGRID_API_KEY=your_sendgrid_api_key
+SENDGRID_FROM_EMAIL=noreply@407.tennis
